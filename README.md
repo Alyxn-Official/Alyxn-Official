@@ -1,8 +1,10 @@
-# Hi there ! I'm Alyxn 👋
+<img alt="ALYXEN" src="https://i88.servimg.com/u/f88/20/09/25/40/test10.jpg"/>
+
+# Hi there ! I'm Alyxen 👋
 
 <h3> Presentation: 📌
 
-I am Alyxn, I am a student in Digital Systems, I learn in my spare time front end and serverside programming, I plan to integrate a school that will allow me to specialize in this field. I want to become a fully fullstack developer, take a look at my skills below.
+I am Alyxen, I am a student in Digital Systems, I learn in my spare time front end and serverside programming, I plan to integrate a school that will allow me to specialize in this field. I want to become a fully fullstack developer, take a look at my skills below.
 
 <h3> My skills: 🔧
   
