@@ -22,7 +22,6 @@ ____
 ____
 
 <img alt="Windows" src="https://img.shields.io/badge/windows 10 PRO-blue.svg?style=for-the-badge&logo=windows&logoColor=white"/>
-<img alt="Trello" src="https://img.shields.io/badge/Trello-darkblue.svg?style=for-the-badge&logo=trello&logoColor=white"/>
 <img alt="Clickup" src="https://img.shields.io/badge/CLickup-magenta.svg?style=for-the-badge&logo=clickup&logoColor=white"/>
 <img alt="Discord" src="https://img.shields.io/badge/Discord-8181F7.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=white"/>
