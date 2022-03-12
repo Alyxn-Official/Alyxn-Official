@@ -1,5 +1,7 @@
 <img alt="LOGO" src="https://image.noelshack.com/fichiers/2022/10/6/1647109409-logo-white-large.png"/>
 
+[![Alyxn Stats](https://github-readme-stats.vercel.app/api?username=Alyxn-Official&theme=onedark&show_icons=true&border_radius=10)](https://github.com/Alyxn-Official)
+
 # Hi there ! I'm Alyxn 👋
 
 <h3> Presentation: 📌
