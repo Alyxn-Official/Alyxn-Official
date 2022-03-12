@@ -13,7 +13,7 @@ ____
 <img alt="Javascript" src="https://img.shields.io/badge/Javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/NODE.JS-green.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="Reactjs" src="https://img.shields.io/badge/react.JS-blueviolet.svg?style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="Reactjs" src="https://img.shields.io/badge/NEW !-react.JS-blueviolet.svg?style=for-the-badge&logo=react&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/Mongodb-sucess.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ____
