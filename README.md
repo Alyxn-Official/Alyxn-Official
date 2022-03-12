@@ -1,4 +1,3 @@
-<img alt="ALYXEN" src="https://i.pinimg.com/originals/af/29/56/af29566cd7da9a846464af3bd0e87a85.gif"/>
 <img alt="LOGO" src"http://image.noelshack.com/fichiers/2022/10/6/1647109409-logo-white-large.png"/>
 
 # Hi there ! I'm Alyxen 👋
