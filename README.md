@@ -1,4 +1,4 @@
-<img alt="ALYXEN" src="https://i88.servimg.com/u/f88/20/09/25/40/test10.jpg"/>
+<img alt="ALYXEN" src="https://i.pinimg.com/originals/af/29/56/af29566cd7da9a846464af3bd0e87a85.gif"/>
 
 # Hi there ! I'm Alyxen 👋
 
